@@ -1,0 +1,17 @@
+{
+    "name": "Blog o Everest",
+    "short_name": "MountAPP",
+    "theme_color": "#65bbff",
+    "background_color": "#529cd6",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/PWA/"
+    "icons" : [
+        {
+            "src" : "./logo.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+
+        }
+    ]
+}
